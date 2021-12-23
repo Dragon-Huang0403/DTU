@@ -6,8 +6,8 @@
 
 ### 影片介紹：
 
-- [公司原本內部使用的方法，耗時約3分鐘](https://drive.google.com/file/d/1RgGRgfMPM2rV0Zhk-Tzfrtx4lPOinoyk/view?usp=sharing)
-- [我開發這套軟體後，透過簡化流程僅需1分鐘，且讓使用者更容易上手](https://drive.google.com/file/d/1w2Kxo-4o1PUVTd_Zs7A02F16HCxfCyD7/view?usp=sharing)
+- [公司原本內部使用的方法，耗時約3分鐘](https://drive.google.com/file/d/1_LFyMDqh3lAUOZpRwd5XywALuHFiCA-q/view?usp=sharing)
+- [我開發這套軟體後，透過簡化流程僅需1分鐘，且讓使用者更容易上手](https://drive.google.com/file/d/1iR4oZIvLP9CW5idPxZpI3Jp--k-ovFby/view?usp=sharing)
 - [軟體還有即時監控溫度的功能，原本公司內部的方法無法達到，這讓使用者可以確認元件的溫度不會過高](https://drive.google.com/file/d/1_rCzIGgP_aB4E5ehj8rUZr2iYb2rEGl_/view?usp=sharing)
 
 ### 心得：
